@@ -13,7 +13,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink"  />
   </ItemGroup>
   <ItemGroup>
-    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.1" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" />
   </ItemGroup>
 
 </Project>
